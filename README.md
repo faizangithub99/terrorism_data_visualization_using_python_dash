@@ -3,3 +3,8 @@ The project is about terrorism analysis with insight and which has some requirem
 
 
 Favicon.ico should be added to the assets folder in the project directory.
+
+Datasets for global terrorism can be downloaded from google documents link given below
+https://drive.google.com/drive/folders/16mITmW75ScRBCVG_oSN6d3baPVOTa_17?usp=sharing
+
+
